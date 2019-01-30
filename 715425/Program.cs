@@ -13,3 +13,13 @@ namespace _715425
         }
     }
 }
+    class village
+    {
+    // Node is an ADT
+    // What kind of data do we need in a NODE?
+    public village nextvillage;
+    public string VillageName;
+    public bool isAstrlieHere = false;
+
+
+    }
